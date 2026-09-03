@@ -317,6 +317,10 @@ async def get_signing_policy_events(
                 to_checksum_address("0x97702e350CaEda540935d92aAf213307e9069784"),
                 to_checksum_address("0x57a4c3676d08Aa5d15410b5A6A80fBcEF72f3F45"),
                 to_checksum_address("0x67a916E175a2aF01369294739AA60dDdE1Fad189"),
+                to_checksum_address("0x5A2Eb0cdB4Aa8253924a488A77EdfD24Bb64407f"),
+                to_checksum_address("0xc1BC89b717Af42AE27497C9FFb996002D3AC5031"),
+                to_checksum_address("0xEcD0B60Ea5E01e4D0bFd621c8920B40A32389b83"),
+                to_checksum_address("0x5017728F117501A24EF9C3756C07f0d564598596"),
             ],
             "topics": [
                 "0x"
